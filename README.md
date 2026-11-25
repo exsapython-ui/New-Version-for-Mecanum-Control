@@ -4,4 +4,5 @@ Pergantian Component untuk driver motor & penyederhanaan program
 
 WokWi Project Link: https://wokwi.com/projects/481400844067919873
 
-<img width="1920" height="999" alt="image" src="https://github.com/user-attachments/assets/08302582-ddd0-4e58-840c-fe5c78a63469" />
+![Uploading image.png…]()
+
